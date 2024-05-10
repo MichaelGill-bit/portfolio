@@ -1,5 +1,5 @@
 # AGON
-## Initials Competition Website Package
+## Competition Website Package
 
 ## Config Options:
 
