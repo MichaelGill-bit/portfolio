@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Initials.Agon.Web", "Initials.Agon.Web\Initials.Agon.Web.csproj", "{6B713A28-2A8D-44C4-935F-24DC9704A309}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Initials.Agon.Competitions", "Initials.Agon.Competitions\Initials.Agon.Competitions.csproj", "{7C66AF21-6136-4785-9910-F7BD370566FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BA3D5CE8-C2D4-40E8-AEE9-9BC41E7C4C7E}"
+	ProjectSection(SolutionItems) = preProject
+		Initials.Agon.Web\.gitignore = Initials.Agon.Web\.gitignore
+		Initials.Agon.Web\appsettings-schema.json = Initials.Agon.Web\appsettings-schema.json
+		Initials.Agon.Web\appsettings-schema.Umbraco.Cms.json = Initials.Agon.Web\appsettings-schema.Umbraco.Cms.json
+		Initials.Agon.Web\appsettings-schema.usync.json = Initials.Agon.Web\appsettings-schema.usync.json
+		nuget.config = nuget.config
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B713A28-2A8D-44C4-935F-24DC9704A309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B713A28-2A8D-44C4-935F-24DC9704A309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B713A28-2A8D-44C4-935F-24DC9704A309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B713A28-2A8D-44C4-935F-24DC9704A309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C66AF21-6136-4785-9910-F7BD370566FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C66AF21-6136-4785-9910-F7BD370566FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C66AF21-6136-4785-9910-F7BD370566FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C66AF21-6136-4785-9910-F7BD370566FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {966D0FE1-3243-4DCA-88CF-9AA56C072D41}
+	EndGlobalSection
+EndGlobal
